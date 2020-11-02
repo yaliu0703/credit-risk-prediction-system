@@ -1,0 +1,7 @@
+pandas==1.0.5
+scipy==1.5.2
+eli5==0.10.1
+numpy==1.19.2
+streamlit==0.70.0
+ipython==7.19.0
+scikit_learn==0.23.2
